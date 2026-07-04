@@ -1,0 +1,61 @@
+# Sample Markdown File
+
+This is a sample Markdown document.
+
+## Features
+
+- Easy to read
+- Simple formatting
+- Widely used for documentation
+
+## Checklist
+
+- [x] Create a Markdown file
+- [x] Add some content
+- [ ] Share it with others
+
+## Code Example
+
+```python
+def greet(name):
+    return f"Hello, {name}!"
+    
+print(greet("World"))
+```
+
+## Table
+
+| Name  | Role      | Experience |
+|-------|-----------|-----------:|
+| Alice | Developer | 5 years |
+| Bob   | Tester    | 3 years |
+| Carol | Designer  | 4 years |
+
+## Quote
+
+> "Markdown is a lightweight markup language."
+
+## Link
+
+Visit the GitHub website:
+https://github.com
+
+## Image (Example)
+
+![Placeholder Image](https://via.placeholder.com/300x150)
+
+---
+
+### Notes
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+**Bold Text**
+
+*Italic Text*
+
+~~Strikethrough~~
+
+`Inline code`
+
+End of sample.
